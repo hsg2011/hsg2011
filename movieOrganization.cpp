@@ -1,8 +1,5 @@
 /**------------------------------------------
-
-    Program 4: IMDB
-
-    Course: CS 141, Fall 2022.
+    Program: IMDB
     System: Windows 11
     Student Author: Harket Ghuman
 -------------------------------------------*/
